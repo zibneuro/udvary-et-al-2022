@@ -23,3 +23,6 @@ bioRxiv 2020.11.13.381087; doi: https://doi.org/10.1101/2020.11.13.381087
 
 ### License
 MIT
+
+### Versioning Info
+[![DOI](https://zenodo.org/badge/467093557.svg)](https://zenodo.org/badge/latestdoi/467093557)
