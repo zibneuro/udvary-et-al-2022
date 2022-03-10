@@ -1,0 +1,1 @@
+Download 'analyzed data' from https://cortexinsilico.zib.de/download, extract zip-file, and copy folder 'data' to this location.

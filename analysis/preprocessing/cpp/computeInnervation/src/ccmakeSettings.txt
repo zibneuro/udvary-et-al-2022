@@ -1,0 +1,5 @@
+	  ccmake . 
+		C_compiler 		= /opt/intel/bin/icc
+		CXX_compiler 	= /opt/intel/bin/icpc
+		ITK_DIR 		= /usr/local/InsightToolkit-3.20.1
+		VTK_DIR 		= /usr/local/VTK/build

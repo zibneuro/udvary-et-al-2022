@@ -1,0 +1,5 @@
+analysis/data/
+analysis/preprocessing/data/
+analysis/output/Figures/*.jpg
+analysis/output/Figures/*.svg
+analysis/output/Tables/*.csv
