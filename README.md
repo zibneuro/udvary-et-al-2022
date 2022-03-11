@@ -1,4 +1,4 @@
-# udvary-et-all-2022
+# udvary-et-al-2022
 
 This repository contains the analysis routines for [
 The Impact of Neuronal Structure on Cortical Network Architecture](https://www.biorxiv.org/content/10.1101/2020.11.13.381087v4). Additional resources are available at [BarrelCortexInSilico](https://cortexinsilico.zib.de).
