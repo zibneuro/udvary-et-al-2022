@@ -1,7 +1,7 @@
 # udvary-et-al-2022
 
 This repository contains the analysis routines for [
-The Impact of Neuronal Structure on Cortical Network Architecture](https://www.biorxiv.org/content/10.1101/2020.11.13.381087v4). Additional resources are available at [BarrelCortexInSilico](https://cortexinsilico.zib.de).
+The Impact of Neuronal Structure on Cortical Network Architecture](https://www.sciencedirect.com/science/article/pii/S2211124722004296). Additional resources are available at [BarrelCortexInSilico](https://cortexinsilico.zib.de).
 
 ### Content
 - [analysis/visualization/](https://github.com/zibneuro/udvary-et-al-2022/tree/master/analysis/visualization): scripts to reproduce the figures and tables (Matlab)
@@ -17,9 +17,9 @@ The Impact of Neuronal Structure on Cortical Network Architecture](https://www.b
 - **Philipp Harth** [@philippHarth](https://github.com/philippHarth) (Department of Visual and Data-centric Computing, Zuse Institute Berlin)
 
 ### Publication
-[The Impact of Neuronal Structure on Cortical Network Architecture](https://www.biorxiv.org/content/10.1101/2020.11.13.381087v4)  
+[The Impact of Neuronal Structure on Cortical Network Architecture](https://www.sciencedirect.com/science/article/pii/S2211124722004296)  
 *Daniel Udvary, Philipp Harth, Jakob H. Macke, Hans-Christian Hege, Christiaan P.J. de Kock, Bert Sakmann, Marcel Oberlaender*  
-bioRxiv 2020.11.13.381087; doi: https://doi.org/10.1101/2020.11.13.381087
+Cell Reports 2022; doi: https://doi.org/10.1016/j.celrep.2022.110677
 
 ### License
 MIT
