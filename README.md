@@ -17,7 +17,7 @@ The Impact of Neuronal Structure on Cortical Network Architecture](https://www.s
 - **Philipp Harth** [@philippHarth](https://github.com/philippHarth) (Department of Visual and Data-centric Computing, Zuse Institute Berlin)
 
 ### Publication
-[The Impact of Neuronal Structure on Cortical Network Architecture](https://www.sciencedirect.com/science/article/pii/S2211124722004296)  
+[The Impact of Neuron Morphology on Cortical Network Architecture](https://www.sciencedirect.com/science/article/pii/S2211124722004296)  
 *Daniel Udvary, Philipp Harth, Jakob H. Macke, Hans-Christian Hege, Christiaan P.J. de Kock, Bert Sakmann, Marcel Oberlaender*  
 Cell Reports 2022; doi: https://doi.org/10.1016/j.celrep.2022.110677
 
